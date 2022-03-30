@@ -31,7 +31,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
-    - uses: ArtiomTr/jest-coverage-report-action@v2
-      with:
-        test-script: npm run test:coverage
-        github-token: ${{ secrets.SECRET_TOKEN }}
+    - name: Jest Github Action Reporter
+      uses: IgnusG/jest-report-action@v2.3.3
