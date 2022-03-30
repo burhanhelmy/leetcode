@@ -26,4 +26,13 @@ You can edit [app.ts](./src/app.ts) and call specific function inside. This repo
     $ npm run test    
 
 
+### Question:
+
+* Array
+    * [Dominant index](./src/array/dominant_index/dominant_index.md)
+    * [Pivot array](./src/array/pivot_array/pivot_array.md)
+    * [Plus One](./src/array/plus_one/plus_one.md)
+
+
+
 
