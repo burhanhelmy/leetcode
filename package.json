@@ -1,0 +1,18 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "leetcode practice",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burhanhelmy/leetcode.git"
+  },
+  "author": "burhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burhanhelmy/leetcode/issues"
+  },
+  "homepage": "https://github.com/burhanhelmy/leetcode#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
