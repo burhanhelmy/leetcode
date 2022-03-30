@@ -4,7 +4,7 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Run Project",
+            "name": "Run and debug",
             "program": "${workspaceFolder}/src/app.ts",
             "preLaunchTask": "tsc: build - tsconfig.json",
             "smartStep": true,

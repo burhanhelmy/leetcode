@@ -13,6 +13,12 @@
   },
   "homepage": "https://github.com/burhanhelmy/leetcode#readme",
   "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4",
     "typescript": "^4.6.3"
+  },
+  "scripts": {
+    "test": "jest test --coverage"
   }
 }
