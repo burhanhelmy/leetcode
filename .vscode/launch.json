@@ -5,7 +5,7 @@
             "type": "node",
             "request": "launch",
             "name": "Run and debug",
-            "program": "${workspaceFolder}/src/app.ts",
+            "program": "${workspaceFolder}/src/playground.ts",
             "preLaunchTask": "tsc: build - tsconfig.json",
             "smartStep": true,
             "outFiles": [
