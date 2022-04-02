@@ -10,13 +10,14 @@
 <br />
 
 ## About
-___________
+
 
 This is the playground for me to solve algorithm and data structure problem in leetcode. you can check out my leetcode <b> <a  href="https://leetcode.com/burhanhelmy"> profile here </a> </b>. Im using typescript language and jest for test suits. All the function is come with Jest unit.
+
 <br />
 
 ## Getting started 
-___________
+
 You can edit [playground.ts](./src/playground.ts) and call specific function inside. This repo is optimized for [VSCode](https://code.visualstudio.com) which you can use run and debug with break point enabled
 
 
