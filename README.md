@@ -24,7 +24,7 @@ You can edit [playground.ts](./src/playground.ts) and call specific function ins
 <br />
 
 ### Pre requirement:
-To get started, you need to install [NodeJS](https://nodejs.org/en/).
+To get started, you need to install [NodeJS](https://nodejs.org/en/) and npm.
 
 <br />
 
