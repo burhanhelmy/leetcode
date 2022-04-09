@@ -1,15 +1,19 @@
 // playground
 
-import { findDiagonalOrder } from "./array/find_diagonal_order/find_diagonal_order";
+import { spiralOrder } from "./array/spiral_order/spiral_order";
 
 
-console.log(findDiagonalOrder(
+
+console.log(spiralOrder(
     [
-        [2, 5],
-        [8, 4],
-        [0, -1]
+        [1, 2, 3, 4],
+        [5, 6, 7, 8],
+        [9, 10, 11, 12],
+        [13, 14, 15, 16]
     ]
 ));
+
+
 
 // findDiagonalOrder([
 //     [1, 2, 3],
