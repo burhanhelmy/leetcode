@@ -74,7 +74,7 @@ function recursive(matrix: number[][], noOfRow: number, noOfCol: number, round: 
 
 
 
-
+// NOTE: old approach, this is buggy
 
 // export function spiralOrder(matrix: number[][]): number[] {
 //     // get the no of row and column.

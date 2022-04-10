@@ -48,7 +48,8 @@ To get started, you need to install [NodeJS](https://nodejs.org/en/) and npm.
 * Array
     * [Dominant index](./src/array/dominant_index/dominant_index.md)
     * [Pivot array](./src/array/pivot_array/pivot_array.md)
-    * [Plus One](./src/array/plus_one/plus_one.md)
+    * [Plus one](./src/array/plus_one/plus_one.md)
+    * [Spiral order](./src/array/plus_one/plus_one.md)
 
 
 
