@@ -45,11 +45,15 @@ To get started, you need to install [NodeJS](https://nodejs.org/en/) and npm.
 
 ### Question:
 
+** All the question and material come from [leetcode](https://leetcode.com/problems). All the copyright goes to them. I only wrote the solution.
+
 * Array
     * [Dominant index](./src/array/dominant_index/dominant_index.md)
     * [Pivot array](./src/array/pivot_array/pivot_array.md)
     * [Plus one](./src/array/plus_one/plus_one.md)
     * [Spiral order](./src/array/plus_one/plus_one.md)
+    * [Find diagonal order](./src/array/find_diagonal_order/find_diagonal_order.md)
+    * [Pascal triangle](./src/array/pascal_triangle/pascal_triangle.md)
 
 
 
