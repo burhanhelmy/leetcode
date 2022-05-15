@@ -1,7 +1,10 @@
 // playground
 
-import { pascalTriangle } from "./array/pascal_triangle/pascal_triangle";
+import { LinkedList } from "./linked_list/basic/create_list";
 
 
-console.log(pascalTriangle(5));
+
+
+console.log(LinkedList.print(LinkedList.reverse(LinkedList.createFromArray([1, 2, 3, 4, 5]))));
+
 
