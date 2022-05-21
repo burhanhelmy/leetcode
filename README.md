@@ -55,6 +55,8 @@ To get started, you need to install [NodeJS](https://nodejs.org/en/) and npm.
     * [Find diagonal order](./src/array/find_diagonal_order/find_diagonal_order.md)
     * [Pascal triangle](./src/array/pascal_triangle/pascal_triangle.md)
 
+* Linked List
+    * [Design Linked List ](./src/linked_list/design_linked_list/design_linked_list.ts)
 
 
 

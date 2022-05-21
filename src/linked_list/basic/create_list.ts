@@ -38,10 +38,10 @@ export class LinkedList {
         let prev: LLNode;
 
         while (nodePointer != null) {
-            let next = nodePointer.next;
+            let tempNext = nodePointer.next;
             nodePointer.next = prev;
             prev = nodePointer
-            nodePointer = next;
+            nodePointer = tempNext;
         }
         return prev
     }
